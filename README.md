@@ -12,4 +12,4 @@ The smart photo album is a AWS based serverless cloud application that allows us
     
 - Architecture Diagram
 
-![Overview](overview.png)
+![Overview](Overview.png)
